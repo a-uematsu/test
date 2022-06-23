@@ -2,5 +2,3 @@ hello git.
 hello git.
 
 echo "hello."
-
-before revert test.
